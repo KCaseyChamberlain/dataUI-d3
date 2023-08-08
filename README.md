@@ -1,3 +1,2 @@
-# dataUI-d3
-
-This is a simple node-circle chart.
+# This application is a non-dynamic data visualization tool for data hierarchy
+![demo](./assets/demo.png)
